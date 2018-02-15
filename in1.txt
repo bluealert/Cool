@@ -1,0 +1,6 @@
+{
+	int i; float[100][100] a; float v;
+	while (a[i][i] < v) {
+		i = i + 1;
+	}
+}
